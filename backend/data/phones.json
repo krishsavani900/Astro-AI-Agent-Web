@@ -1,0 +1,875 @@
+{
+  "iPhone 17 Pro Max": {
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Max",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "📸 Triple 48MP system delivers incredible detail",
+      "🌙 Night mode is automatic and best in class",
+      "🎥 4K 120fps video is a game changer for slow-mo"
+    ]
+  },
+  "iPhone 17 Pro": {
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🔭 Finally gets the 5x zoom from the Max model",
+      "⚡ Super fast shutter with zero lag",
+      "🎨 ProRAW gives you massive editing flexibility"
+    ]
+  },
+  "iPhone 17": {
+    "brand": "Apple",
+    "model": "iPhone 17",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.6",
+      "iso_min": 50,
+      "iso_max": 10000,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🔍 2x 'optical quality' crop from main sensor",
+      "🌟 Great low light performance for a base model",
+      "🤳 Upgraded front camera for sharper selfies"
+    ]
+  },
+  "iPhone Air": {
+    "brand": "Apple",
+    "model": "iPhone Air",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 8000,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.4",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🪶 Ultra-thin design focuses on portability over pro specs",
+      "🖼️ Single main camera does heavy lifting with AI",
+      "🎩 Stylish but not for hardcore photographers"
+    ]
+  },
+  "iPhone 16 Pro Max": {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 12,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🎬 The video king of 2024/2025",
+      "🔘 Dedicated Camera Control button is handy",
+      "🌈 48MP Ultrawide is great for macro shots"
+    ]
+  },
+  "iPhone 16 Pro": {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 12,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "📏 Compact pro with 5x zoom",
+      "🎞️ Photographic Styles Gen 2 allow custom looks",
+      "🌪️ Faster sensor readout reduces blur"
+    ]
+  },
+  "iPhone 16 Plus": {
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.6",
+      "iso_min": 50,
+      "iso_max": 10000,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.4",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🔋 Battery beast for long shoot days",
+      "🤏 Macro mode support added",
+      "🤖 Spatial Video recording enabled"
+    ]
+  },
+  "iPhone 16": {
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.6",
+      "iso_min": 50,
+      "iso_max": 10000,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.4",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🧼 Vertical camera layout for Spatial Video",
+      "🏃‍♂️ Action mode stabilizes shaky video perfectly",
+      "✨ Great point-and-shoot experience"
+    ]
+  },
+  "iPhone 15 Pro Max": {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 12,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🦕 First iPhone with 5x Tetraprism zoom",
+      "💾 Can record video directly to external SSD",
+      "🌑 Excellent night portraits"
+    ]
+  },
+  "iPhone 15 Pro": {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.78",
+      "iso_min": 50,
+      "iso_max": 12800,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 12,
+      "aperture": "f/2.8",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "🏹 3x zoom is better for portraits than 5x",
+      "💪 Titanium frame makes it lighter to hold",
+      "🎨 Default 24MP output offers high detail"
+    ]
+  },
+  "Galaxy S25 Ultra": {
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra",
+    "main_camera": {
+      "sensor_mp": 200,
+      "aperture": "f/1.7",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 50,
+      "aperture": "f/3.4",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "👑 The Zoom King with AI enhancement",
+      "🖊️ Remote shutter via S-Pen is super useful",
+      "🌌 200MP mode allows insane cropping"
+    ]
+  },
+  "Galaxy S25 Plus": {
+    "brand": "Samsung",
+    "model": "Galaxy S25+",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "⚖️ Balanced choice for most users",
+      "🌈 Bright, punchy colors typical of Samsung",
+      "🌃 Nightography works great on the main lens"
+    ]
+  },
+  "Galaxy S25": {
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "🤏 Compact powerhouse",
+      "🚀 Fast autofocus with Dual Pixel technology",
+      "🌞 Expert RAW app support available"
+    ]
+  },
+  "Galaxy Z Fold 6": {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 6",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "📐 Flex mode acts as a built-in tripod",
+      "🤳 Take high-res selfies with the main rear cameras",
+      "📱 Under-display internal camera is hidden but low quality"
+    ]
+  },
+  "Galaxy Z Flip 6": {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 6",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "💄 Best for vloggers and creative angles",
+      "📺 Use cover screen as a viewfinder",
+      "🚫 No telephoto lens, digital zoom only"
+    ]
+  },
+  "Galaxy S24 Ultra": {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "main_camera": {
+      "sensor_mp": 200,
+      "aperture": "f/1.7",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 50,
+      "aperture": "f/3.4",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🤖 Heavy AI integration for post-processing",
+      "🔭 100x Space Zoom is fun but gimmicky",
+      "📽️ 8K video recording supported"
+    ]
+  },
+  "Galaxy S24 Plus": {
+    "brand": "Samsung",
+    "model": "Galaxy S24+",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "🎯 Solid all-rounder for photos",
+      "🎨 HDR handling is aggressive but pleasing",
+      "💡 Good portrait mode edge detection"
+    ]
+  },
+  "Galaxy S24": {
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "👜 Pocket-friendly size",
+      "🌓 Night mode brightens scenes significantly",
+      "🔄 Shutter lag can be an issue with moving subjects"
+    ]
+  },
+  "Galaxy S23 Ultra": {
+    "brand": "Samsung",
+    "model": "Galaxy S23 Ultra",
+    "main_camera": {
+      "sensor_mp": 200,
+      "aperture": "f/1.7",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10,
+      "aperture": "f/4.9",
+      "zoom": "10x Optical"
+    },
+    "notes": [
+      "🦅 The 10x optical lens is legendary for distance",
+      "🌕 Best choice for moon photography",
+      "⚡ Still a very capable flagship in 2026"
+    ]
+  },
+  "Galaxy S23 FE": {
+    "brand": "Samsung",
+    "model": "Galaxy S23 FE",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.8",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 8,
+      "aperture": "f/2.4",
+      "zoom": "3x Optical"
+    },
+    "notes": [
+      "💰 Great value for the camera specs",
+      "🎨 Colors match the flagship S23 series",
+      "🔋 Battery life slightly weaker than main series"
+    ]
+  },
+  "Pixel 10 Pro XL": {
+    "brand": "Google",
+    "model": "Pixel 10 Pro XL",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.95",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🧠 The smartest AI camera on the market",
+      "✨ 'Magic Editor' can reimagine your photos",
+      "📹 Video Boost creates cinema-quality clips in cloud"
+    ]
+  },
+  "Pixel 10 Pro": {
+    "brand": "Google",
+    "model": "Pixel 10 Pro",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.95",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🤏 Same pro cameras in a smaller body",
+      "🔍 Super Res Zoom is shockingly good up to 30x",
+      "🌌 Astrophotography mode is automatic and stunning"
+    ]
+  },
+  "Pixel 10": {
+    "brand": "Google",
+    "model": "Pixel 10",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.95",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "📸 Best point-and-shoot for moving subjects",
+      "🏃‍♂️ Action Pan adds drama to motion",
+      "🚫 Lacks optical zoom, relies on crop"
+    ]
+  },
+  "Pixel 9 Pro XL": {
+    "brand": "Google",
+    "model": "Pixel 9 Pro XL",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 45,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.7",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "👥 'Add Me' feature lets you join group photos later",
+      "🤳 Selfie camera upgraded to 42MP",
+      "🌈 Real Tone represents all skin tones accurately"
+    ]
+  },
+  "Pixel 9 Pro": {
+    "brand": "Google",
+    "model": "Pixel 9 Pro",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 45,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.7",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "💎 Premium build with matte glass",
+      "🎥 Video Boost works wonders for night video",
+      "🧠 Tensor G4 chip powers heavy AI edits"
+    ]
+  },
+  "Pixel 9": {
+    "brand": "Google",
+    "model": "Pixel 9",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.7",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🆕 Ultrawide lens got a massive upgrade to 48MP",
+      "🌑 Night Sight is faster than previous generations",
+      "🖌️ Magic Editor is available even on the base model"
+    ]
+  },
+  "Pixel 9 Pro Fold": {
+    "brand": "Google",
+    "model": "Pixel 9 Pro Fold",
+    "main_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.7",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 10.5,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 10.8,
+      "aperture": "f/3.1",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "📖 Thinner design than the original Fold",
+      "👶 'Made You Look' animations for kids on outer screen",
+      "📉 Cameras are slightly worse than standard 9 Pro"
+    ]
+  },
+  "Pixel 8 Pro": {
+    "brand": "Google",
+    "model": "Pixel 8 Pro",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 48,
+      "aperture": "f/1.95",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": true,
+      "sensor_mp": 48,
+      "aperture": "f/2.8",
+      "zoom": "5x Optical"
+    },
+    "notes": [
+      "🎛️ First Pixel to introduce manual 'Pro' controls",
+      "🔊 Audio Magic Eraser removes noise from videos",
+      "🧠 Best Take swaps faces to get the perfect smile"
+    ]
+  },
+  "Pixel 8": {
+    "brand": "Google",
+    "model": "Pixel 8",
+    "main_camera": {
+      "sensor_mp": 50,
+      "aperture": "f/1.68",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 12,
+      "aperture": "f/2.2",
+      "manual_focus": true,
+      "pro_mode": true
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "🌸 Macro Focus finally added to the non-Pro model",
+      "🎨 Computes colors beautifully in HDR",
+      "🔍 2x Optical quality crop is decent"
+    ]
+  },
+  "Pixel 8a": {
+    "brand": "Google",
+    "model": "Pixel 8a",
+    "main_camera": {
+      "sensor_mp": 64,
+      "aperture": "f/1.89",
+      "iso_min": 50,
+      "iso_max": 3200,
+      "max_shutter_sec": 30,
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "ultrawide_camera": {
+      "sensor_mp": 13,
+      "aperture": "f/2.2",
+      "manual_focus": false,
+      "pro_mode": false
+    },
+    "telephoto_camera": {
+      "available": false
+    },
+    "notes": [
+      "💸 Incredible camera value for the price",
+      "🧩 Uses a different 64MP sensor than the flagships",
+      "✨ Has most of the AI magic features (Magic Eraser, etc.)"
+    ]
+  }
+}
