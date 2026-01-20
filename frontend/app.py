@@ -1,6 +1,9 @@
 import streamlit as st
 import os
 import google.generativeai as genai
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # IMPORT YOUR ENGINES DIRECTLY 🛠️
 from backend.engines.phone_specs import get_phone_specs
